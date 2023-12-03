@@ -57,7 +57,7 @@
         </p>
         <p>
             <button id="grignoter">
-                <a href="je veux grignoter.html" id="S">VOUS VOULEZ GRIGNOTER? ALORS CLIQEZ ICI!</a>
+                <a href="je veux grignoter.html" id="S">VOUS VOULEZ GRIGNOTER? ALORS CLIQUEZ ICI!</a>
             </button>
         </p>
         <P>
@@ -67,7 +67,7 @@
         </P>
         <p>
             <button id="propreté">
-                <a href="je veux faire la proprete.html" id="S">VOUS VOULEZ FAIRE LA PROPETE? ALORS CLIQUEZ ICI!</a>
+                <a href="je veux faire la proprete.html" id="S">VOUS VOULEZ FAIRE LA PROPRETE? ALORS CLIQUEZ ICI!</a>
             </button>
         </p>
     </BODY>
