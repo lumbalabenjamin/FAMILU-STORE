@@ -91,10 +91,10 @@
        <P style="text-align: end;border-radius: 50px;" > <button class="g" id="noir" style="width: 10%; height: 10%;" onclick="hello()">nuit</button> 
         <button class="g" id="blanc"  style="width: 10%; height: 10%;" onclick="hello() ">jour</button></P>
         <h1 id="h1">BIENVENUE CHEZ FAMILU STORE</h1>
-       <p> <a href="J'ai soif.html"><button id="soif">VOUS AVEZ SOIF? ALORS CLIQUEZ ICI</button></a> <br></p>
-        <p><a href="je veux dejuner.html"><BUtton id="dejeuner">VOUS VOULEZ PETIT DEJEUNER? ALORS CLIQUEZ ICI</BUtton></a> <br></p>
-        <p><a href="je veux grignoter.html"><BUTton id="grignoter">VOUS VOULEZ GRIGNOTE? ALORS CLIQUEZ ICI</BUTton></a> <br></p>
-        <p><a href="je veux manger.html"><BUtton id="manger">VOUS VOULEZ MANGER? ALORS CLIQUEZ ICI</BUtton></a> <br></p> 
-        <p><a href="je veux faire la proprete.html"><button id="propreté">VOUS VOULEZ FAIRE LA PROPRETE? ALORS CLIQUEZ ICI</button></a> <br></p>
+       <p> <a href="J'ai soif.html"><button id="soif">VOUS AVEZ SOIF? ALORS CLIQUEZ ICI.</button></a> <br></p>
+        <p><a href="je veux dejuner.html"><BUtton id="dejeuner">VOUS VOULEZ PETIT DEJEUNER? ALORS CLIQUEZ ICI.</BUtton></a> <br></p>
+        <p><a href="je veux grignoter.html"><BUTton id="grignoter">VOUS VOULEZ GRIGNOTE? ALORS CLIQUEZ ICI.</BUTton></a> <br></p>
+        <p><a href="je veux manger.html"><BUtton id="manger">VOUS VOULEZ MANGER? ALORS CLIQUEZ ICI.</BUtton></a> <br></p> 
+        <p><a href="je veux faire la proprete.html"><button id="propreté">VOUS VOULEZ FAIRE LA PROPRETE? ALORS CLIQUEZ ICI.</button></a> <br></p>
     </BODY>
 </html
